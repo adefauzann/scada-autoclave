@@ -62,4 +62,4 @@ Boiler interlock: D0004 >= 150 and D0005 >= 30 turn on M0007, which enables the 
 | `hmi/` | InfoU project, screen, tag database and drivers |
 | `images/` | HMI and ladder screenshots |
 
-Opening the project files requires XG5000, CX-Programmer or InfoU.
+Opening the project files requires XG5000, CX-Programmer and InfoU.
